@@ -1,0 +1,16 @@
+.dogs {
+    display: grid;
+}
+
+.dogs-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.dogs-img {
+    width: 250px;
+}
